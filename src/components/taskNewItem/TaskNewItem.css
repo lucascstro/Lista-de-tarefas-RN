@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    align-items: center;
+    /* alinha verticalmente */
+    padding: 10px;
+}
+
+.txtTitle,
+.txtTask .button {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.txtTitle {
+    margin-bottom: 10px;
+}

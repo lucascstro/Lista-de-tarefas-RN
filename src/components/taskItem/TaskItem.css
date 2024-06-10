@@ -1,0 +1,20 @@
+.cardTask {
+    margin-bottom: 5px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 20px;
+}
+
+.cardTask .lblTask {
+    text-align: center;
+}
+
+.txtTask {
+    width: 96%;
+}
+
+.selectStatusTask,
+ .buttonDeletar {
+    margin-bottom: 10px;
+    width: 100%;
+}
